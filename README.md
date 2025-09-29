@@ -40,5 +40,10 @@
 <br><br><br><br>
 
 
-[linkedin]: https://www.linkedin.com/
+
+<p>
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
 
