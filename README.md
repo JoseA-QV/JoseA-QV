@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitantes" src="https://gpvc.arturio.dev/joseqv" />
 
 <br>
 
